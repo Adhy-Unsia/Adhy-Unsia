@@ -1,31 +1,64 @@
 ## Hi there 👋
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
-## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+# 👨‍💻 Nurhadi Yansyah
 
-## Education:
+**Distance Learning Informatics Student** at [Universitas Siber Asia](https://unsia.ac.id/) 
+📍 Depok, West Java, Indonesia  
+📧 adhy.azri@gmail.com |
+---
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+## 🎓 Education
 
-## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+- [**Universitas Siber Asia**](https://unsia.ac.id/)  
+  2024 - Present | Distance Learning Program in Informatics
+
+- [**YAPEMRI Senior High School**](https://smayapemri-depok.sch.id/)  
+  1998 - 2001 | Science Major  
+  *Represented Indonesian Red Cross Youth in a Japan visit*
+
+---
+
+## 💼 Work Experience
+
+### [SMK Kesehatan Mulia Karya Husada](https://smkmkhjkt.com/) (2013 - 2021)  
+**Administrative Technician**
+- Asset inventory, activity documentation, and school archiving
+- School data operator (Dapodikdasmen, e-Raport, UNBK, ANBK)
+
+### [SMP Bakti 17 Jakarta](https://smpbakti17jkt.blogspot.com/) (2022 - Present)  
+**School Data Operator**
+- CBT Proctor, managed BOS Online, Dapodikdasmen system
+
+### [Indonesian Red Cross](https://www.pmi.or.id/)(1999 - Present)  
+**Volunteer**
+- Disaster response & youth education for Red Cross activities
+
+---
+
+## 🧠 Skills
+
+- 🎨 Graphic Design (Adobe Photoshop)
+- 🎬 Basic Video Editing
+- 💬 Public Speaking & Leadership
+- 🩺 Basic Medical & Field Health Knowledge
+- 💻 CBT Proctoring, e-Raport, Verval PD-GTK, Dapodik Operator
+
+---
+
+## 📍 Address
+
+Sukmajaya District, Depok City  
+West Java, Indonesia
+
+---
+
+## 📌 Notes
+
+This portfolio is a digital representation of my background in educational administration, school IT systems, and humanitarian volunteering.
+
+---
+
+## 🌐 Social Media
+
 ---
 
 ### Languages and Tools:
